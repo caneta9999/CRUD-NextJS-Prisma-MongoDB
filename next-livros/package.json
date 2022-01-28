@@ -1,0 +1,25 @@
+{
+  "name": "next-livros",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.8.1",
+    "jsdom": "^19.0.0",
+    "next": "12.0.8",
+    "prisma": "^3.8.1",
+    "prisma-client": "^0.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-router": "^6.2.1",
+    "react-router-dom": "^6.2.1"
+  },
+  "devDependencies": {
+    "eslint": "8.7.0",
+    "eslint-config-next": "12.0.8"
+  }
+}
